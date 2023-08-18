@@ -1,0 +1,11 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+.DS_Store
+/result/
+/crop/
+/data/
+craft_mlt_25k.pth
+test.png
+Untitled.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
